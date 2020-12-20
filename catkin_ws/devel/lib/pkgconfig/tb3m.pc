@@ -1,0 +1,8 @@
+prefix=/home/diakhaby/catkin_ws/devel
+
+Name: tb3m
+Description: Description of tb3m
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
